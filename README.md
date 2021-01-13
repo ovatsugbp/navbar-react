@@ -1,6 +1,6 @@
 # NavBar
 11th of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. 
-React Hooks useState, useEffect and useRef was used to provide toggle function to menu, capture the height of the menu (based on list of items) and select the DOM item for manipulation.
+React Hooks useState, useEffect and useRef were used to provide toggle function to menu, capture the height of the menu (based on list of items) and select the DOM item for manipulation.
 
 
 
